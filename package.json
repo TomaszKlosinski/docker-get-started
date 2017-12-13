@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_app",
+  "version": "0.0.1",
+  "description": "Node.js on Docker",
+  "author": "Tomasz Klosinski <tomasz.klosinski@protonmail.ch>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "package.json": "^2.0.1"
+  }
+}
